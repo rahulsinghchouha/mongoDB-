@@ -58,3 +58,8 @@ Summary  `
 **Summary**:
 - Use `$pop` to remove an element based on its position (first or last) in the array.
 - Use `$pull` to remove specific elements based on their values, regardless of their position in the array.
+
+- ===============================>
+- for upload folder on mongoDB - Downloads/dump$  mongorestore --uri="mongodb+srv://singhrahul15737:dqU8xyLGWrKzxoSS@cluster0.mznlaof.mongodb.net/hrms" ./conative-hrms
+
+
